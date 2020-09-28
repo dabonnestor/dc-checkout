@@ -1,0 +1,21 @@
+{
+  "name": "sidebar",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "rm -rf dist && parcel index.html",
+    "build": "rm -rf build && parcel build index.html --dist-dir build"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "parcel": "^2.0.0-beta.1"
+  },
+  "dependencies": {
+    "formik": "^2.1.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.2.0",
+    "yup": "^0.29.3"
+  }
+}
