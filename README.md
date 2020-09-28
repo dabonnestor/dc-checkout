@@ -2,7 +2,7 @@
 
 In this challenge, you will work with the form in a modern and minimal design. The challenge will bring your HTML and CSS to a new level.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9bebd7eb-eed9-492a-b527-3b079ea421f8/deploy-status)](https://app.netlify.com/sites/angry-hamilton-dee5b6/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d1124125-8fd7-4b34-9d39-f167c48403a1/deploy-status)](https://app.netlify.com/sites/gracious-yonath-637c87/deploys)
 
 ## Installation
 
