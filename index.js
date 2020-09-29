@@ -194,6 +194,7 @@ const Select = styled.select`
   display: block;
   width: 100%;
   font-size: 1.6rem;
+  background-color: transparent;
   color: #333;
   border: 0;
   border-radius: 1.2rem;
