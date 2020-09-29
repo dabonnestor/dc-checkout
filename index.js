@@ -276,7 +276,7 @@ const Button = styled.button`
   color: #fff;
   border: 1px solid #f2994a;
   border-radius: 1.2rem;
-  whitespace: nowrap;
+  white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
   appearance: none;
