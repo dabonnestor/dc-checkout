@@ -1,4 +1,4 @@
-# Checkout
+# Checkout Page
 
 In this challenge, you will work with the form in a modern and minimal design. The challenge will bring your HTML and CSS to a new level.
 
